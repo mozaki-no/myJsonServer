@@ -1,34 +1,11 @@
-[
 {
-    "key1": "value1",
-    "key2": "value2",
-    "key3": [
-        "value3",
-        "value4"
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-,{
-    "key1": "value1",
-    "key2": "value2",
-    "key3": [
-        "value3",
-        "value4"
-    ]
-}
-,{
-    "key1": "value1",
-    "key2": "value2",
-    "key3": [
-        "value3",
-        "value4"
-    ]
-}
-,{
-    "key1": "value1",
-    "key2": "value2",
-    "key3": [
-        "value3",
-        "value4"
-    ]
-}
-]
