@@ -1,8 +1,18 @@
 {
-  "posts": [
+  "food": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "寿司"
+    },
+    {
+      "id": 2,
+      "name": "ピザ"
+    }
+  ],
+  "station": [
+    {
+      "id": 1,
+      "name": "新宿"
     }
   ]
 }
